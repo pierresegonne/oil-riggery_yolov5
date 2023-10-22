@@ -17,5 +17,7 @@ test: images/test # test images (optional)
 names:
   0: oil well
 
+nc: 1
+
 # Download script/URL (optional)
 download: https://storage.googleapis.com/pierre-test-public/oil-riggery/NEPU.zip
