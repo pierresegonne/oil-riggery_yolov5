@@ -18,4 +18,4 @@ names:
   0: oil well
 
 # Download script/URL (optional)
-download:
+download: https://storage.googleapis.com/pierre-test-public/oil-riggery/NEPU.zip
